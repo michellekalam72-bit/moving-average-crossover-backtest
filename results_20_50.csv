@@ -1,0 +1,11 @@
+Asset,Ticker,Method,Annual return,Volatility,Sharpe,Max drawdown,Time invested
+Apple,AAPL,Strategy,12.7%,19.8%,0.70,-29.1%,63%
+Apple,AAPL,Buy & hold,25.2%,28.7%,0.93,-38.5%,100%
+Goldman Sachs,GS,Strategy,11.7%,20.3%,0.65,-47.4%,61%
+Goldman Sachs,GS,Buy & hold,16.0%,29.4%,0.65,-48.7%,100%
+JP Morgan,JPM,Strategy,12.8%,18.0%,0.76,-23.8%,65%
+JP Morgan,JPM,Buy & hold,18.4%,26.8%,0.76,-43.6%,100%
+Dow Jones,^DJI,Strategy,5.5%,10.8%,0.55,-18.8%,67%
+Dow Jones,^DJI,Buy & hold,9.6%,17.2%,0.62,-37.1%,100%
+Nasdaq Composite,^IXIC,Strategy,7.4%,14.4%,0.57,-33.1%,69%
+Nasdaq Composite,^IXIC,Buy & hold,15.7%,21.4%,0.79,-36.4%,100%
